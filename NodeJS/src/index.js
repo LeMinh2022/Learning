@@ -6,6 +6,10 @@ const path = require('path');
 const { extname } = require('path');
 const port = 3000;
 
+//midlerware
+app.use(express.urlencoded())
+app.use(express.json())
+
 // HTTP logger
 // app.use(morgan('combined'))
 
@@ -31,9 +35,14 @@ app.get('/news', (req, res) => {
   res.render('news');
 });
 
-app.post('/search', (req, res) => {
+app.get('/search', (req, res) => {
   console.log(req.query)
   res.render('search');
+});
+
+app.post('/search', (req, res) => {
+  console.log(req.body)
+  res.send('');
 });
 
 app.listen(port, () => {
