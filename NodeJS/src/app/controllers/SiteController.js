@@ -1,15 +1,13 @@
 class NewsController {
-
     //[GET] /
-    index(req,res){
+    index(req, res) {
         res.render('Home');
     }
 
     //[GET] /search
-    search(req,res){
-        res.render('search')
+    search(req, res) {
+        res.render('search');
     }
 }
 
-module.exports = new NewsController;
-
+module.exports = new NewsController();
