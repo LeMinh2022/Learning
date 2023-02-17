@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\bin\done\net7.0\CS01.exe
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\bin\done\net7.0\CS01.deps.json
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\bin\done\net7.0\CS01.runtimeconfig.json
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\bin\done\net7.0\CS01.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\bin\done\net7.0\CS01.pdb
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\CS01.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\CS01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\CS01.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\CS01.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\CS01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\CS01.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\refint\CS01.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\CS01.pdb
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\CS01.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS01\obj\done\net7.0\ref\CS01.dll
