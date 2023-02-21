@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\bin\Debug\net7.0\CS03.exe
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\bin\Debug\net7.0\CS03.deps.json
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\bin\Debug\net7.0\CS03.runtimeconfig.json
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\bin\Debug\net7.0\CS03.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\bin\Debug\net7.0\CS03.pdb
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\CS03.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\CS03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\CS03.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\CS03.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\CS03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\CS03.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\refint\CS03.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\CS03.pdb
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\CS03.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS03\obj\Debug\net7.0\ref\CS03.dll
