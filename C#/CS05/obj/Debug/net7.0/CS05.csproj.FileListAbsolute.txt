@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\bin\Debug\net7.0\CS05.exe
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\bin\Debug\net7.0\CS05.deps.json
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\bin\Debug\net7.0\CS05.runtimeconfig.json
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\bin\Debug\net7.0\CS05.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\bin\Debug\net7.0\CS05.pdb
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\CS05.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\CS05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\CS05.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\CS05.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\CS05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\CS05.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\refint\CS05.dll
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\CS05.pdb
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\CS05.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Work\Code\Learning\C#\CS05\obj\Debug\net7.0\ref\CS05.dll
